@@ -40,7 +40,7 @@ In this section, you'll be measuring the correlation between the gop_pct (% voti
 ```
 
 
-**Question 2** _Next you should assess the normality of the variables of interest. Use two of the three measures discussed in class (histogram, QQ plot, and/or Shapiro-Wilk test) to do so for the 2016 data. Based on your results, is a parametric or non-parametric versiob if correlation more appropriate?_
+**Question 2** _Next you should assess the normality of the variables of interest. Use two of the three measures discussed in class (histogram, QQ plot, and/or Shapiro-Wilk test) to do so for the 2016 data. Based on your results, is a parametric or non-parametric version of correlation more appropriate?_
 
 ```{r}
 #Code here
@@ -71,7 +71,7 @@ In this section, you'll be measuring the correlation between the gop_pct (% voti
 ```
 
 
-**Question 7** _Using `cor` and `corrplot`, create a visualization of the correlation between the *change* in GOP vote between 2008 and 2016 (created in question 6) and your education variables for the 2016 data. Include the text labels using the `addCoef.col` parameter as shown in the class script. How would you interpret the results shown in this graph? How is the question that it answers story different (if at all) from the question answered by the graph in question 4?_
+**Question 7** _Using `cor` and `corrplot`, create a visualization of the correlation between the *change* in GOP vote between 2008 and 2016 (created in question 6) and your education variables for the 2016 data. Include the text labels using the `addCoef.col` parameter as shown in the class script. How would you interpret the results shown in this graph? How is the question that it answers different (if at all) from the question answered by the graph in question 4?_
 
 ```{r}
 #Code here
